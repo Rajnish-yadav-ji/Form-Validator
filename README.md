@@ -34,12 +34,12 @@ This is a simple **Form Validation** project built using **HTML**, **CSS**, and 
 
 ## 📸 Preview
 
-![Form Screenshot] (<img width="1371" height="860" alt="Form Validator" src="https://github.com/user-attachments/assets/ceaff2e6-3b30-455e-9e1c-d80e92ef5f67" />) (<img width="914" height="337" alt="Form Validator2" src="https://github.com/user-attachments/assets/e0408961-59a7-4d2a-8948-2d67161eed59" />
-)
+**Form Screenshot** <img width="1371" height="860" alt="Form Validator" src="https://github.com/user-attachments/assets/ceaff2e6-3b30-455e-9e1c-d80e92ef5f67" /> <img width="914" height="337" alt="Form Validator2" src="https://github.com/user-attachments/assets/e0408961-59a7-4d2a-8948-2d67161eed59" />
+
 
 
 ## 🔗 Live Demo
 
-[Click here to view on GitHub Pages] (https://rajnish-yadav-ji.github.io/Form-Validator/)
+Click here to view on GitHub Pages https://rajnish-yadav-ji.github.io/Form-Validator/
 
 
